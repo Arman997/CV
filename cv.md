@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 # Arman Aristakesyan
 
 ## JavaScript Trainee Applicant
@@ -59,13 +58,14 @@ I am a passionate and motivated individual eager to enhance my software engineer
 
 ### Portfolio
 
-- GitHub: [Your GitHub Profile](https://github.com/orgs/Arman-sProjects/repositories)
+- GitHub: [GitHub Profile](https://github.com/orgs/Arman-sProjects/repositories)
 
 ### Contact
 
 - Residing in Armenia
 - Email: [Arman.Aristakesyan97@gmail.com](mailto:arman.aristakesyan97@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/arman-aristakesyan)
+- LinkedIn: [Arman Aristakesyan](https://www.linkedin.com/in/arman-aristakesyan)
+- Contact: [+374 44 544 355](tel:+37444544355)
 
 ---
 
