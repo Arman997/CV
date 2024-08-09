@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # Arman Aristakesyan
 
 ## JavaScript Trainee Applicant
