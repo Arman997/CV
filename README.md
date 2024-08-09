@@ -14,33 +14,7 @@ I am a passionate and motivated individual eager to enhance my software engineer
 - Tumo Labs GSL Student Web Development (2022-present)
 
 ### Skills
-<div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:1rem; margin:1rem 0">
-    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
-      Proficient in Git
-    </div>
-    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
-      HTML
-    </div>
-    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
-      CSS
-    </div>
-    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
-      React
-    </div>
-    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
-      TypeScript
-    </div>
-    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
-      TailwindCSS
-    </div>
-    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
-      Problem Solving
-    </div>
-    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
-      Teamwork
-    </div>
-    
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,docker,django,postgres)](https://skillicons.dev)
 
 
 ### Experience
