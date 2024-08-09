@@ -14,7 +14,7 @@ I am a passionate and motivated individual eager to enhance my software engineer
 - Tumo Labs GSL Student Web Development (2022-present)
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,docker,django,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,git,github,docker,tailwindcss,nodejs)](https://skillicons.dev)
 
 
 ### Experience
