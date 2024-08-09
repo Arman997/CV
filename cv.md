@@ -1,4 +1,4 @@
-# John Doe
+# Arman Aristakesyan
 
 ## JavaScript Trainee Applicant
 
@@ -10,54 +10,64 @@ I am a passionate and motivated individual eager to enhance my software engineer
 
 ### Education
 
-- Bachelor's Degree in Computer Science (Year of Graduation)
-- Relevant Courses or Certifications
+- Associate's Degree in Culinary and art (2021)
+- Tumo Labs GSL Student Web Development (2022-present)
 
 ### Skills
+<div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:1rem; margin:1rem 0">
+    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
+      Proficient in Git
+    </div>
+    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
+      HTML
+    </div>
+    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
+      CSS
+    </div>
+    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
+      React
+    </div>
+    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
+      TypeScript
+    </div>
+    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
+      TailwindCSS
+    </div>
+    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
+      Problem Solving
+    </div>
+    <div style="background-color:#4287f5; padding:2px;    border-radius:5px; text-align:center;">
+      Teamwork
+    </div>
+    
+</div>
 
-- Proficient in Git, JavaScript, and unit testing
-- Experienced in Frontend technologies: HTML, CSS, React
-- Familiar with Backend technologies: Node.js, SQL
-- Strong problem-solving and teamwork skills
 
 ### Experience
 
-- Software Development Intern at XYZ Company (Month Year - Month Year)
+- Software Development Intern at SkillFull AI Company
+  - (Feb 2023 - Mar 2023)
   - Developed and maintained frontend components using React
   - Assisted in optimizing backend APIs for improved performance
 
-### Projects
-
-- **Project Name**
-  Description: Brief overview of the project
-  Technologies Used: List of technologies used
-  GitHub Repository: [Link to the GitHub repository](#)
-
 ### Languages
 
-- English (Proficient - B1+ level)
-
-### Location
-
-- Residing in [Country]
+- English (B1+ level)
+- Russian (Proficient)
+- Armenian (Native)
 
 ### Portfolio
 
-- GitHub: [Your GitHub Profile](#)
+- GitHub: [Your GitHub Profile](https://github.com/orgs/Arman-sProjects/repositories)
 
 ### Contact
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile](#)
+- Residing in Armenia
+- Email: [Arman.Aristakesyan97@gmail.com](mailto:arman.aristakesyan97@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/arman-aristakesyan)
 
 ---
 
-#### Boot Camp Application Details
 
-- **Interest**: Full-stack track
-- **Form Submission Date**: August XX, 2024
-- **Test Assignment**: [Link to your completed test assignment](#)
-
----
 
 Thank you for considering my application. I am looking forward to the opportunity to participate in the Quantori JavaScript Boot Camp and further develop my skills in software development.
