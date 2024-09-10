@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am a passionate and motivated individual eager to enhance my software engineering skills and collaborate with a diverse team of developers. I have a strong foundation in JavaScript and am excited about the opportunity to participate in the Quantori JavaScript Boot Camp.
+I am a motivated and adaptable individual with a strong eagerness to learn and contribute in a dynamic environment. I thrive in collaborative settings and am dedicated to continuous improvement and growth. With a passion for tackling new challenges and a commitment to making meaningful contributions, I am excited about opportunities where I can further develop my skills and contribute effectively to a team.
 
 ### Education
 
